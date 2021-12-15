@@ -1,0 +1,21 @@
+{
+  "type": "var",
+  "varName": {
+    "type": "iden",
+    "value": "hello",
+    "text": "hello",
+    "offset": 0,
+    "lineBreaks": 0,
+    "line": 1,
+    "col": 1
+  },
+  "varData": {
+    "type": "num",
+    "value": "42",
+    "text": "42",
+    "offset": 8,
+    "lineBreaks": 0,
+    "line": 1,
+    "col": 9
+  }
+}
