@@ -1,5 +1,3 @@
-# <center> Col-Lang 💩 </center>
-
 <p align="center">
   <img width="460" height="460" src="https://raw.githubusercontent.com/NikolayDevGifaby/col/master/col/col.png">
 </p>
