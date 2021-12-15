@@ -1,7 +1,7 @@
 # <center> Col-Lang 💩 </center>
 
 <p align="center">
-  <img width="410" height="410" src="https://raw.githubusercontent.com/NikolayDevGifaby/col/master/col/Untitled.png">
+  <img width="460" height="460" src="https://raw.githubusercontent.com/NikolayDevGifaby/col/master/col/col.png">
 </p>
 
 <p>
